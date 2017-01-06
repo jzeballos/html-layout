@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+}
+
+.left {
+  background-color: #658FDE;
+  float: left;
+  height: 100%;
+  width: 33.333333%;
+}
+
+.center {
+  background-color: #8EE2C2;
+  float: left;
+  height: 100%;
+  width: 33.333333%;
+}
+.right {
+  height: 100%;
+  float: left;
+  width: 33.333333%;
+}
+
+.rightup {
+  background-color: #C5E68A;
+  height: 70%;
+}
+
+.rightdown {
+  background-color: #B00320;
+  height: 30%;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.main-container {
+  height: 800px;
+}
+
+.text-middle {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
