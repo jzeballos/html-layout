@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color:#D7D7D7;
+  height: 90px;
+}
+
+.logo {
+  height: 76px;
+  width: 76px;
+  background-color: #658FDE;
+}
+
+.container {
+  padding: 7px 15px;
+}
+
+.row1 {
+  background-color:#FFFFFF;
+  height: 240px;
+}
+
+.row2 {
+  background-color:#658FDE;
+  height: 120px;
+}
+
+.row3 {
+  background-color:#8EE2C2;
+  height: 120px;
+}
+
+.row4 {
+  background-color:#C6E88B;
+  height: 120px;
+}
+
+.row5 {
+  background-color:#F3E63E;
+  height: 120px;
+}
